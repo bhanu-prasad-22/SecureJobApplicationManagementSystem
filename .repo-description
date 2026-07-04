@@ -1,1 +1,0 @@
-description: A full-stack web application for securely managing job applications with JWT-based authentication, built with Spring Boot, React, and PostgreSQL. Features secure user authentication, CRUD operations for job applications, responsive UI with Tailwind CSS, and Docker deployment support.
